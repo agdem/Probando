@@ -1,6 +1,26 @@
+
+
 h1 {
     color: green;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-weight: bold;
     text-align: center;
+
 }
+
+.container {
+    margin: 50px;
+    display: flex;
+    justify-content: center;
+
+}
+
+ol {
+    border-radius: 10px 10px 10px 10px;
+    background-color: gold;
+}
+
+li {
+    padding: 8px;
+    font-weight: bold;
+
